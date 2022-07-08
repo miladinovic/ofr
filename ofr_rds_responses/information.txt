@@ -1,0 +1,3 @@
+This is the data repositosity of the OFRs experiment
+
+The textual data in the directory represent the output of the intermediate step of raw image data processing. Please see readme.txt for more details
